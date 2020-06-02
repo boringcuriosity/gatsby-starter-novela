@@ -1,0 +1,8 @@
+name: Tech
+bio: >-
+  Learngram - A platform to learn via Instagram. This one provides tech
+  learning.
+featured: true
+avatar: avatars/professional.png
+social:
+  - 'https://www.instagram.com/boringcuriosity'
